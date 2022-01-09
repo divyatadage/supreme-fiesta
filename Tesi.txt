@@ -1,1 +1,4 @@
-Hi this is first git
+
+
+Hi welcome to java
+learning git
